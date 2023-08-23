@@ -1,0 +1,15 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align:center;
+}
+
+#restartButton {
+    margin-top: 10px;
+    font-size: 16px;
+    padding: 5px 10px;
+}
+
+#controls {
+    margin-top: 10px;
+}
+
